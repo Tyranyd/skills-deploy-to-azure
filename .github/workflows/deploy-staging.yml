@@ -12,6 +12,7 @@ env:
   DOCKER_IMAGE_NAME: Tyranyd-azure-ttt
   AZURE_WEBAPP_NAME: Tyranyd-ttt-app
   ###############################################
+  #a random comment
 
 jobs:
   build:
